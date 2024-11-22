@@ -1,11 +1,14 @@
 {
   "telesender": {
     "source": 101,
+    "cycleType": 0,
     
     "channels": 0,
     "apiID": 0,
+    
     "apiHash": 0,
     "phoneNumber": 0,
+
     "userTag": 0,
     
     "cofirmCode": 0,
