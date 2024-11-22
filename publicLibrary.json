@@ -15,7 +15,7 @@
     "CloudPassw": 0,
 
     "actionComand": "send_start",
-    "source_code": "https://raw.githubusercontent.com/LILOBONdev/TeleSender/refs/heads/main/TeleSender/telesender_source.py"
+    "source_code": "https://raw.githubusercontent.com/LILOBONdev/TeleSender/refs/heads/main/TeleSender/telesender_source.py",
     "libs": ["pyogram"]
   }
 }
