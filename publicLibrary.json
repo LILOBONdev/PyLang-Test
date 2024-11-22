@@ -15,6 +15,6 @@
     "CloudPassw": 0,
 
     "actionComand": "send_start",
-    "libs": ["pyogram"]
+    "libs": ["pyogram"],
   }
 }
