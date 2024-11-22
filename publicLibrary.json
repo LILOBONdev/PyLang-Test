@@ -12,6 +12,8 @@
     "userTag": 0,
     
     "cofirmCode": 0,
-    "CloudPassw": 0
+    "CloudPassw": 0,
+
+    "libs": ["pyogram"]
   }
 }
