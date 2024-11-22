@@ -14,7 +14,7 @@
     "cofirmCode": 0,
     "CloudPassw": 0,
 
-    "actionComand": "send_start"
+    "actionComand": "send_start",
     "libs": ["pyogram"]
   }
 }
