@@ -67,10 +67,10 @@ class shell():
                 if a.count('+'):
                     TempStroke = compilate
                     elCount = TempStroke.index('+')
-                    try:
+                    """try:
                         a,b=int(VARS[TempStroke[elCount-1]]),int(VARS[TempStroke[elCount+1]])
                     except KeyError:
-                        a,b = int(TempStroke[elCount-1]),int(TempStroke[elCount+1])
+                        a,b = int(TempStroke[elCount-1]),int(TempStroke[elCount+1])"""
                     
                     tempMathBox = []
                     DublicateTempMathBox = []
